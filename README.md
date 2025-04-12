@@ -4,7 +4,7 @@ The Music Popularity Predictor is a web app built with Streamlit that uses a tra
 ![Image Link](![Screenshot 2025-04-12 234037.png](Screenshot%202025-04-12%20234037.png))
 _________
 
-🧠 Features Used for Prediction
+## 🧠 Features Used for Prediction
 🎧 Energy
 
 😊 Valence
