@@ -38,6 +38,7 @@ _______
 
 ## 4. Model Training
 Different Machine Learning algorithims are trained on data -
+
 1.Linear Regression
 2.Ridge Regression
 3.Lasso Regression
@@ -48,7 +49,7 @@ Different Machine Learning algorithims are trained on data -
 
 ## 4. Hyperparameter Tuning
 
-- Used GridSearchCV and RandomizedSearchCV to tune differnt parameters.
+- Used GridSearchCV and RandomizedSearchCV to tune different parameters.
 
 
 ![Image Link](![Screenshot 2025-04-12 234127.png](Screenshot%202025-04-12%20234127.png))
