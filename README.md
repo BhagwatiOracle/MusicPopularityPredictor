@@ -1,7 +1,7 @@
 # 🎶 Music Popularity Predictor
 The Music Popularity Predictor is a web app built with Streamlit that uses a trained machine learning model to estimate a song’s popularity (on a scale of 0 to 100) based on its audio characteristics.
 
-![Image Link](![Screenshot 2025-04-12 234037.png](Screenshot%202025-04-12%20234037.png))
+![Screenshot 2025-04-12 234037.png](Screenshot%202025-04-12%20234037.png)
 _________
 
 ## 🧠 Features Used for Prediction
@@ -52,4 +52,4 @@ Different Machine Learning algorithims are trained on data -
 - Used GridSearchCV and RandomizedSearchCV to tune different parameters.
 
 
-![Image Link](![Screenshot 2025-04-12 234127.png](Screenshot%202025-04-12%20234127.png))
+![Screenshot 2025-04-12 234127.png](Screenshot%202025-04-12%20234127.png)
